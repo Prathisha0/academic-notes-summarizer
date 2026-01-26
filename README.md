@@ -15,7 +15,7 @@ Welcome to the **Academic Notes Summarizer**! This is a simple yet powerful web 
 ##  Tech Stack
 
 - **Frontend/UI**: Streamlit  
-- **Backend**: Google Gemini API (`gemini-1.5-pro-latest`)  ,python
+- **Backend**: Google Gemini API (`gemini-1.5-pro-latest`)  
 - **Mind Map**: Graphviz  
 - **PDF Export**: FPDF  
 - **Text Parsing**: PyMuPDF (for PDFs), python-docx (for DOCX)  
